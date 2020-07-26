@@ -1,0 +1,48 @@
+#main-header img{
+    width:100%;
+    height:100%;
+}
+#name{
+    background-color: #dee6bd;
+    color:black;
+}
+.icons{
+    text-decoration: none;
+    color: black;
+}
+.icons:hover{
+   color:black;
+   font-size:20px;
+}
+.desgn{
+    background-color: black;
+    color: white;
+}
+.menu-item{
+    width:25%;
+}
+.menu-item:hover{
+    opacity: 0.6;
+    cursor: pointer;
+}
+#homecolor{
+    background-color:#081844; 
+}
+#resumecolor{
+    background-color: #f58e3a;
+}
+#workcolor{
+    background-color: #f8bd34;
+}
+#contactcolor{
+    background-color: #f5585d ;
+}
+.progcolor{
+    background: rgb(8, 22, 100);
+}
+.workimg{
+    background-color:  #fab209;
+}
+#main-footer{
+    background-color: #dee6bd;
+}
